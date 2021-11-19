@@ -4,6 +4,7 @@ const DATA_CACHE_NAME = "data-cache-v1";
 const FILES_TO_CACHE = [
     "/",
     "/index.html",
+    "/db.js",
     "/manifest.webmanifest",
     "/style.css",
     "/index.js",
@@ -78,4 +79,5 @@ self.addEventListener("install", function (evt) {
       })
     );
   });
+  
   
