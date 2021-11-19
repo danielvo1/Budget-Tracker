@@ -22,7 +22,7 @@ a live server through heroku. However, the application is not complete therfore 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [MongoDv](https://www.mongodb.com/)
+* [MongoDB](https://www.mongodb.com/)
 ​
 ​
 ## Authors
